@@ -18,9 +18,9 @@ DRIVER powers three textbooks under contract with [**World Scientific Publishing
 
 | Textbook | Focus | Repo |
 |----------|-------|------|
-| DRIVER: Financial Modeling | Professional analytics mastery | [`DRIVER-FinancialModeling`](https://github.com/CinderZhang/DRIVER-FinancialModeling) |
-| DRIVER: Financial Management | AI-augmented foundations | [`DRIVER-FinancialManagement`](https://github.com/CinderZhang/DRIVER-FinancialManagement) |
-| DRIVER: Essentials of Investment | The cognitive gymnasium | [`DRIVER-EssentialsofInvestment`](https://github.com/CinderZhang/DRIVER-EssentialsofInvestment) |
+| DRIVER: Financial Modeling | Professional analytics mastery | 🔒 private |
+| DRIVER: Financial Management | AI-augmented foundations | 🔒 private |
+| DRIVER: Essentials of Investment | The cognitive gymnasium | 🔒 private |
 
 All textbooks freely available at [cinderzhang.github.io](https://cinderzhang.github.io)
 
@@ -31,10 +31,10 @@ All textbooks freely available at [cinderzhang.github.io](https://cinderzhang.gi
 | Repo | What it is |
 |------|-----------|
 | [`driver-plugin`](https://github.com/CinderZhang/driver-plugin) | DRIVER methodology as a Claude Code plugin — the core engine for AI-augmented finance workflows |
-| [`DRIVER-PhilosophyBigPicture`](https://github.com/CinderZhang/DRIVER-PhilosophyBigPicture) | The intellectual foundations: philosophy, mindset, and comprehensive guides behind DRIVER |
+| `DRIVER-PhilosophyBigPicture` | The intellectual foundations: philosophy, mindset, and comprehensive guides behind DRIVER 🔒 |
 | [`FAskills`](https://github.com/CinderZhang/FAskills) | Financial Analysis skills — Claude Code plugin built on DRIVER principles |
-| [`AI-Analyst`](https://github.com/CinderZhang/AI-Analyst) | Research codebase: Can AI match professional equity analysts? |
-| [`FinDataMCP`](https://github.com/CinderZhang/FinDataMCP) | MCP server for financial data pipelines |
+| `AI-Analyst` | Research codebase: Can AI match professional equity analysts? 🔒 |
+| `FinDataMCP` | MCP server for financial data pipelines 🔒 |
 | [`DataAnalytics`](https://github.com/CinderZhang/DataAnalytics) | Full course: Financial Data Analytics with Python |
 | [`OpenMAIC`](https://github.com/CinderZhang/OpenMAIC) | Open Multi-Agent Interactive Classroom (forked, extended for DRIVER) |
 
