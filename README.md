@@ -34,7 +34,7 @@ All textbooks freely available at [cinderzhang.github.io](https://cinderzhang.gi
 | `DRIVER-PhilosophyBigPicture` | The intellectual foundations: philosophy, mindset, and comprehensive guides behind DRIVER 🔒 |
 | [`FAskills`](https://github.com/CinderZhang/FAskills) | Financial Analysis skills — Claude Code plugin built on DRIVER principles |
 | `AI-Analyst` | Research codebase: Can AI match professional equity analysts? 🔒 |
-| `FinDataMCP` | MCP server for financial data pipelines 🔒 |
+| [`FinDataMCP`](https://github.com/CinderZhang/FinDataMCP) | MCP server for financial data pipelines |
 | [`DataAnalytics`](https://github.com/CinderZhang/DataAnalytics) | Full course: Financial Data Analytics with Python |
 | [`OpenMAIC`](https://github.com/CinderZhang/OpenMAIC) | Open Multi-Agent Interactive Classroom (forked, extended for DRIVER) |
 
