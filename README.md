@@ -46,7 +46,7 @@ I sit at the intersection of **finance research**, **AI engineering**, and **edu
 
 - **Research** — Published in JFQA, JBF, JCF. Current working paper: *"Can AI Match Professional Analysts?"* (R&R at *Finance Research Letters*)
 - **Build** — 100+ repos spanning LLM agents, MCP servers, Claude Code plugins, and financial analysis tools
-- **Teach** — Students applying DRIVER go on to Goldman Sachs, JPMorgan, State Street. They don't just learn to prompt — they learn to think with AI.
+- **Teach** — Students applying DRIVER go on to Goldman Sachs, JPMorgan, State Street, Walmart, Mastercard, Stephens Inc. They don't just learn to prompt — they learn to think with AI.
 
 ---
 
