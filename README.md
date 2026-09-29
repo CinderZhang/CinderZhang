@@ -1,57 +1,44 @@
+<!-- Generated public profile summary. Sources: the personal site's About section and the public repositories and essays linked below. Verify claims at those sources when revising. -->
+
 # Cinder Zhang, PhD
 
-**Professor of AI Finance, Purdue University** · Mitch Daniels School of Business
-Building AI-native tools and curricula for the next generation of finance professionals.
+**AI Finance Faculty | AI-Integrated Curriculum Architect**  
+Daniels School of Business, Purdue University
 
-[![Site](https://img.shields.io/badge/cinderzhang.github.io-000?style=flat&logo=github)](https://cinderzhang.github.io)
-[![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat&logo=substack&logoColor=white)](https://cinderzhang.substack.com)
+I build AI tools for financial analysis and bring that work into the classroom. My teaching, research, and open-source projects explore what becomes possible when finance meets AI—and what we come to understand through the work.
 
----
+[Personal website](https://cinderzhang.github.io/) · [Writing in English & 中文](https://cinderzhang.substack.com/) · [LinkedIn](https://www.linkedin.com/in/cinder-zhang)
 
-### The DRIVER Framework
+## AI tools & workflows
 
-**Define · Represent · Implement · Validate · Evolve · Reflect**
+| Project | What you’ll find |
+| --- | --- |
+| [DRIVER Plugin](https://github.com/CinderZhang/driver-plugin) | The DRIVER methodology applied to AI-assisted finance and quantitative work. |
+| [Financial Analysis Skills](https://github.com/CinderZhang/FAskills) | Financial analysis workflows packaged as a Claude Code plugin. |
+| [FinDataMCP](https://github.com/CinderZhang/FinDataMCP) | Access to financialdatasets.ai data through MCP. |
+| [kiss-tmux](https://github.com/CinderZhang/kiss-tmux) | A browser-based terminal multiplexer in Go for Windows. |
 
-DRIVER is my methodology for AI-augmented finance education — teaching students to work *with* AI as a cognitive partner, not a shortcut. AI is the spotter, not the weight machine.
+## Learn AI in finance
 
-DRIVER powers three textbooks under contract with [**World Scientific Publishing**](https://cinderzhang.github.io) (2026):
+| Start here | Materials |
+| --- | --- |
+| [AI in Finance](https://github.com/CinderZhang/FIN43900-Fall2026) | Purdue FIN 43900: readings, slides, and hands-on work. |
+| [Financial Data Analytics](https://github.com/CinderZhang/DataAnalytics) | Course materials for exploring finance through data and code. |
+| [The textbook shelf](https://cinderzhang.github.io/#books) | Financial Management, Financial Modeling, and Essentials of Investment. |
+| [Pro-Forma Valuation with AI](https://youtu.be/O4PeC2PqwRY) | A walkthrough of building a valuation base case with AI. |
 
-| Textbook | Focus | Repo |
-|----------|-------|------|
-| DRIVER: Financial Modeling | Professional analytics mastery | 🔒 private |
-| DRIVER: Financial Management | AI-augmented foundations | 🔒 private |
-| DRIVER: Essentials of Investment | The cognitive gymnasium | 🔒 private |
+## DRIVER & the work of understanding
 
-All textbooks freely available at [cinderzhang.github.io](https://cinderzhang.github.io)
+DRIVER gives learning with AI a structure: investigate a question, build and check the work, then explain and apply what you have learned. I care about the opportunities students gain and the judgment they carry into unfamiliar problems.
 
----
+My writing explores the distinction between completing a task and making the understanding your own:
 
-### DRIVER Ecosystem
+- [Finding Oneself in the AI Era](https://cinderzhang.substack.com/p/finding-oneself-in-the-ai-era)
+- [The Middle Is for the Machine. The Edges Are for You.](https://cinderzhang.substack.com/p/the-middle-is-for-the-machine-the)
+- [Four Students I Want You to Meet](https://cinderzhang.substack.com/p/four-students-i-want-you-to-meet)
 
-| Repo | What it is |
-|------|-----------|
-| [`driver-plugin`](https://github.com/CinderZhang/driver-plugin) | DRIVER methodology as a Claude Code plugin — the core engine for AI-augmented finance workflows |
-| `DRIVER-PhilosophyBigPicture` | The intellectual foundations: philosophy, mindset, and comprehensive guides behind DRIVER 🔒 |
-| [`FAskills`](https://github.com/CinderZhang/FAskills) | Financial Analysis skills — Claude Code plugin built on DRIVER principles |
-| `AI-Analyst` | Research codebase: Can AI match professional equity analysts? 🔒 |
-| [`FinDataMCP`](https://github.com/CinderZhang/FinDataMCP) | MCP server for financial data pipelines |
-| [`DataAnalytics`](https://github.com/CinderZhang/DataAnalytics) | Full course: Financial Data Analytics with Python |
-| [`OpenMAIC`](https://github.com/CinderZhang/OpenMAIC) | Open Multi-Agent Interactive Classroom (forked, extended for DRIVER) |
+## Research
 
----
+My research spans financial information, corporate bond markets, and institutional investors, with ongoing work on AI in financial analysis. I publish as **Xinde Zhang**.
 
-### What I Do
-
-I sit at the intersection of **finance research**, **AI engineering**, and **education**.
-
-- **Research** — Published in JFQA, JBF, JCF. Current working paper: *"Can AI Match Professional Analysts?"* (R&R at *Finance Research Letters*)
-- **Build** — 100+ repos spanning LLM agents, MCP servers, Claude Code plugins, and financial analysis tools
-- **Teach** — Students applying DRIVER go on to Goldman Sachs, JPMorgan, State Street, Walmart, Mastercard, Stephens Inc. They don't just learn to prompt — they learn to think with AI.
-
----
-
-### Let's Connect
-
-- Read my writing on [Substack](https://cinderzhang.substack.com)
-- Explore the [DRIVER framework](https://github.com/CinderZhang/driver-plugin)
-- Browse the [textbooks](https://cinderzhang.github.io)
+[Selected publications](https://cinderzhang.github.io/#research) · [Google Scholar](https://scholar.google.com/citations?user=BH3MwVAAAAAJ)
