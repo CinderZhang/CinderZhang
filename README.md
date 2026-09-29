@@ -2,7 +2,8 @@
 
 # Cinder Zhang, PhD
 
-**AI Finance Faculty | AI-Integrated Curriculum Architect**  
+**AI Finance Faculty | AI-Integrated Curriculum Architect**
+
 Daniels School of Business, Purdue University
 
 I build AI tools for financial analysis and bring that work into the classroom. My teaching, research, and open-source projects explore what becomes possible when finance meets AI—and what we come to understand through the work.
@@ -39,6 +40,14 @@ My writing explores the distinction between completing a task and making the und
 
 ## Research
 
-My research spans financial information, corporate bond markets, and institutional investors, with ongoing work on AI in financial analysis. I publish as **Xinde Zhang**.
+My research spans financial information, corporate bond markets, and institutional investors, and AI in financial analysis. I publish as **Xinde Zhang**.
+
+**[Can AI Match Professional Analysts? Evidence from a Multi-Agent System](https://doi.org/10.1016/j.frl.2026.110127)**
+
+Austin Francis and Cinder Xinde Zhang · *Finance Research Letters* 103 (2026), 110127.
+
+We compare AI-generated equity research with professional analyst reports in a blinded evaluation. Non-expert readers perceived comparable report quality; neither set of portfolio recommendations outperformed an equal-weighted benchmark.
+
+[Manuscript on SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5584131)
 
 [Selected publications](https://cinderzhang.github.io/#research) · [Google Scholar](https://scholar.google.com/citations?user=BH3MwVAAAAAJ)
